@@ -5,13 +5,6 @@
 
 [![DemoWebsite](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://snappy-chatapp.netlify.app/)
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Technical-Shubham-tech/chat-app/commits/main)
-
-
-[![Github commits](https://badgen.net/github/commits/Technical-Shubham-tech/chat-app/main)](https://github.com/Technical-Shubham-tech/chat-app/commits/)
-
-[![GitHub issues](https://img.shields.io/github/issues/Technical-Shubham-tech/chat-app)](https://github.com/Technical-Shubham-tech/chat-app/issues)
-
 ## ⚠️ Before you start
 1. Make sure **Git** and **NodeJS** is installed
 2. **Yarn** is faster than Npm. So use [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/).
